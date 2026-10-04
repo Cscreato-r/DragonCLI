@@ -31,9 +31,9 @@ DragonCLI/
 └── assets/
 ```
 
-## Resume Description
+## Description
 
-Built a terminal-based animated dragon engine using Bash scripting, implementing frame animation, terminal rendering, and interactive CLI visualization.
+ I Built a terminal-based animated dragon engine using Bash scripting, implementing frame animation, terminal rendering, and interactive CLI visualization.
 
 ## Future Improvements
 
